@@ -1,6 +1,7 @@
 from argparse import ArgumentParser, Namespace
 
 import jax.random as jrandom
+
 from slzero import crf, dataset
 
 
